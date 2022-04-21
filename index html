@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>HOME</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Karla:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet"> </head>
+    <body>
+    <div class="top">
+        <header>
+            <nav>
+                <h2>LOGO</h2>
+                <div class="nav-list">
+                    <a href="index.html">home</a>
+                    <a href="about.html">about</a>
+                    <a href="contact.html">contact</a>
+                    <a href="info.html">INFOGRAPHS</a>
+                    
+                </div>
+                <form action="/action_page.php">
+                    <input type="text" placeholder="Search.." name="search">
+                    <button type="submit"><i class="fa fa-search"></i></button>
+                  </form>
+            </nav>
+        </header>
+    </div>
+
+        <section>
+            <div class="main-text">
+                <h1>Want Info<span>Graphs</span> </h1><h2>no worry,we got you</h2>
+            </div>
+        </section>
+
+        
+<div class="main">
+    <div class="g-trend">
+        <h2>TRENDIN INFOGRAPHS</h2>
+         <div class="gallery">
+                <a target="_blank" href="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_23-2148983900.jpg?w=740" download="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_23-2148983900.jpg?w=740">
+                  <img src="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_23-2148983900.jpg?w=740" alt="Mountains" width="600" height="400">
+                </a>
+                <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+              </div>
+            
+              <div class="gallery">
+                <a target="_blank" href="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_52683-63956.jpg?w=740" download="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_52683-63956.jpg?w=740">
+                  <img src="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_52683-63956.jpg?w=740" alt="Mountains" width="600" height="400">
+                </a>
+                <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+              </div>
+            
+              <div class="gallery">
+                <a target="_blank" href="https://img.freepik.com/free-vector/gradient-circular-diagram-infographic_52683-64092.jpg?w=740" download="https://img.freepik.com/free-vector/gradient-circular-diagram-infographic_52683-64092.jpg?w=740">
+                  <img src="https://img.freepik.com/free-vector/gradient-circular-diagram-infographic_52683-64092.jpg?w=740" alt="Mountains" width="600" height="400">
+                </a>
+                <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+              </div>
+    
+    </div>
+</div>
+    <br> <br> 
+
+
+
+  
+    
+   
+    </body>
+    </html>
